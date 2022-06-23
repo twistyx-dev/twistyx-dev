@@ -2,4 +2,4 @@
 - 👀 I’m interested in ... creating solutions to modern day problems using code.
 - 🌱 I’m currently learning ... swift and python.
 - 💞️ I’m looking to collaborate on ... building app templates for small businesses.
-- 📫 How to reach me ... james@twistyx.tech
+- 📫 How to reach me ... james@beefree.ventures
